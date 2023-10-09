@@ -38,7 +38,9 @@
     </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" height="40" width="52" alt="ECLIPSE logo"  /> 
-  <img src="https://github.com/Azklany/Azklany/assets/128062880/de906c79-1ca4-4457-b1f8-85ab2ffe1c3f" height="40" width="52" alt="ECLIPSE logo"  /> 
+  <img src="https://github.com/Azklany/Azklany/assets/128062880/de906c79-1ca4-4457-b1f8-85ab2ffe1c3f" height="40" width="52" alt="CodeBlocks logo"  /> 
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/arduino-logo-png-transparent.png" height="40" width="40" alt="Arduino logo"  /> 
+  <img src="https://www.nesabamedia.com/wp-content/uploads/2019/09/NetBeans-Logo-1.png" height="45" width="60" alt="NetBeans logo"  /> 
 </div>
 <div align="center">
     <h3>
