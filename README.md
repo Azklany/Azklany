@@ -3,12 +3,18 @@
 </div>
 
 <h1 align="center">Hi👋, I'm Ahmed Gamal</h1>
-<h4 align="center">I am a Systems and Computer engineering student in Zagazig university who intersted in coding specially in Embedded systems.</h4>
+<h4 align="center">I am a Computer and Systems engineering student in Zagazig university who intersted in coding specially in Embedded systems.</h4>
+
 <br>
+
 <p align="center">Connect with me on
 <br>	
-<a target="_blank" href="mailto:asklany250@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/azklany/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+    
+<a target="_blank" href="mailto:asklany250@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <br>
 </p>
@@ -17,12 +23,13 @@
     <h3>
         Languages & Tools
     </h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://github.com/Azklany/Azklany/assets/128062880/b2e3803b-e99c-4d09-a878-843d88d0d59c" height="45" width="35" alt="Java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
   <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40" width="52" alt="html logo"  />
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40" width="52" alt="css logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Avr_logo.svg/1200px-Avr_logo.svg.png" height="40" width="52" alt="AVR logo"  />
 </div>
 
 <div align="center">
@@ -31,6 +38,7 @@
     </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" height="40" width="52" alt="ECLIPSE logo"  /> 
+  <img src="https://github.com/Azklany/Azklany/assets/128062880/de906c79-1ca4-4457-b1f8-85ab2ffe1c3f" height="40" width="52" alt="ECLIPSE logo"  /> 
 </div>
 <div align="center">
     <h3>
