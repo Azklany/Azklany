@@ -7,11 +7,13 @@
 
 <br>
 
-<p align="center">Connect with me on
+<p align="center">
+ <strong>Connect with me on</strong>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/azklany/">
+<br>	
+<!-- <a target="_blank" href="https://www.linkedin.com/in/azklany/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
+&emsp; -->
     
 <a target="_blank" href="mailto:asklany250@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
