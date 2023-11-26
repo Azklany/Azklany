@@ -1,9 +1,11 @@
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Azklany&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Gamal" />
 </div>
+-->
 
 <h1 align="center">Hi👋, I'm Ahmed Gamal</h1>
-<h4 align="center">I am a Computer and Systems engineering student in Zagazig university who intersted in coding specially in Embedded systems.</h4>
+<h4 align="center">I am a Computer and Systems engineering student in Zagazig university who intersted in coding specially in Embedded Systems.</h4>
 
 <br>
 
@@ -11,9 +13,9 @@
  <strong>Connect with me on</strong>
 <br>	
 <br>	
-<!-- <a target="_blank" href="https://www.linkedin.com/in/azklany/">
+<a target="_blank" href="https://www.linkedin.com/in/azklany/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp; -->
+&emsp;
     
 <a target="_blank" href="mailto:asklany250@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
